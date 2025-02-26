@@ -1,0 +1,14 @@
+{
+    "objects": [
+        {
+            "key": "cerebro",
+            "modelPath": "Models/cerebro.prefab",
+            "audioPath": "Audios/cerebro.mp3"
+        },
+        {
+            "key": "mamarias",
+            "modelPath": "Models/mamarias.prefab",
+            "audioPath": "Audios/mamarias.mp3"
+        }
+    ]
+}

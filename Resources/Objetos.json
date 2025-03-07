@@ -6,7 +6,7 @@
         { "key": "anatomia-pes", "modelPath": null, "audioPath": null },
         { "key": "anatomia-seio", "modelPath": null, "audioPath": null },
         { "key": "aparelho-fonador", "modelPath": null, "audioPath": null },
-        { "key": "cerebro", "modelPath": "cerebro.fbx", "audioPath": "cerebro.mp3" },
+        { "key": "cerebro", "modelPath": "cerebro.glb", "audioPath": "cerebro.mp3" },
         { "key": "ciclo-agua", "modelPath": null, "audioPath": null },
         { "key": "citologia", "modelPath": null, "audioPath": null },
         { "key": "coluna", "modelPath": null, "audioPath": null },

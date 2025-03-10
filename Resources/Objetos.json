@@ -6,7 +6,7 @@
         { "key": "anatomia-pes", "modelPath": null, "audioPath": null },
         { "key": "anatomia-seio", "modelPath": null, "audioPath": null },
         { "key": "aparelho-fonador", "modelPath": null, "audioPath": null },
-        { "key": "cerebro", "modelPath": "cerebro.fbx", "audioPath": "cerebro.mp3"},
+        { "key": "cerebro", "modelPath": "cerebro.zip", "audioPath": "cerebro.mp3"},
         { "key": "ciclo-agua", "modelPath": null, "audioPath": null },
         { "key": "citologia", "modelPath": null, "audioPath": null },
         { "key": "coluna", "modelPath": null, "audioPath": null },
@@ -37,7 +37,7 @@
         { "key": "sistema-reprodutor-feminino", "modelPath": null, "audioPath": null },
         { "key": "tenia", "modelPath": null, "audioPath": null },
         { "key": "terra", "modelPath": null, "audioPath": null },
-        { "key": "turbina-eolica", "modelPath": null, "audioPath": null },
+        { "key": "turbina-eolica", "modelPath": "turbina-eolica.zip", "audioPath": "cerebro.mp3" },
         { "key": "vitoria-regia", "modelPath": null, "audioPath": null }
     ]
 }
